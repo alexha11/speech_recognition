@@ -10,6 +10,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+my_env
 .Python
 build/
 develop-eggs/
